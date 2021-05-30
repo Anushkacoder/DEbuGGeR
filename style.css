@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border: 15px groove rgb(236, 4, 4);
+  margin-right:auto;
+  margin-left:auto;
+  margin-top: 100px;
+}
